@@ -1,0 +1,49 @@
+apps/desktop/src/renderer/routes/_authenticated/settings/utils/settings-search/settings-search.test.ts
+  s_66a50a3724406b::t_2091bfddb45b89 30-36
+apps/desktop/src/renderer/routes/_authenticated/settings/utils/settings-search/settings-search.ts
+  s_66a50a3724406b::t_2091bfddb45b89 19,124,405-419
+apps/desktop/src/shared/constants.ts
+  s_66a50a3724406b::t_2091bfddb45b89 55
+apps/desktop/src/renderer/lib/code-editor/vim.ts
+  s_66a50a3724406b::t_da13b8b46dc916 3
+  s_66a50a3724406b::t_17aa8aa3f5b591 64-80
+  s_66a50a3724406b::t_2091bfddb45b89 1-2,4-63
+apps/desktop/src/renderer/screens/main/components/WorkspaceView/components/CodeEditor/createCodeMirrorTheme.ts
+  s_66a50a3724406b::t_c6cd9498f0f853 64-72,90-100
+packages/local-db/drizzle/0042_legal_mastermind.sql
+  s_66a50a3724406b::t_f5613f4e8fda8c 1
+apps/desktop/src/lib/trpc/routers/settings/index.ts
+  s_66a50a3724406b::t_2091bfddb45b89 52,919-932
+apps/desktop/src/renderer/hotkeys/hooks/useHotkey/useHotkey.ts
+  s_66a50a3724406b::t_17aa8aa3f5b591 3,19
+apps/desktop/src/renderer/routes/_authenticated/settings/appearance/components/AppearanceSettings/AppearanceSettings.tsx
+  s_66a50a3724406b::t_2091bfddb45b89 10,45-48,74
+apps/desktop/src/renderer/routes/_authenticated/settings/appearance/components/AppearanceSettings/components/VimModeSection/VimModeSection.tsx
+  s_66a50a3724406b::t_2091bfddb45b89 1-45
+apps/desktop/src/renderer/routes/_authenticated/_dashboard/v2-workspace/$workspaceId/hooks/usePaneRegistry/components/FilePane/registry/views/CodeView/components/CodeEditor/CodeEditor.tsx
+  s_66a50a3724406b::t_40babd0192b4bc 30-34,75,87-88,140,167-169,180,186-193
+apps/desktop/src/renderer/routes/_authenticated/_dashboard/v2-workspace/$workspaceId/hooks/usePaneRegistry/components/FilePane/registry/views/CodeView/components/CodeEditor/createCodeMirrorTheme/createCodeMirrorTheme.ts
+  s_66a50a3724406b::t_c6cd9498f0f853 143-151,169-179
+apps/desktop/src/renderer/routes/_authenticated/settings/appearance/components/AppearanceSettings/components/VimModeSection/index.ts
+  s_66a50a3724406b::t_2091bfddb45b89 1
+packages/local-db/src/schema/schema.ts
+  s_66a50a3724406b::t_2091bfddb45b89 230
+apps/desktop/src/renderer/screens/main/components/WorkspaceView/components/CodeEditor/CodeEditor.tsx
+  s_66a50a3724406b::t_40babd0192b4bc 28-32,184,196-197,246,275-277,288,293-301
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "72517472148b089f8c20c2f09b6aa4f01f6617a6",
+  "prompts": {},
+  "sessions": {
+    "s_66a50a3724406b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e03a5-4df8-7263-98a0-bd8c3dceb2ea",
+        "model": "gpt-5.5"
+      },
+      "human_author": "younesbenelmegarni <younes.benelmegarnii@gmail.com>"
+    }
+  }
+}
